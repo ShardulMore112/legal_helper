@@ -73,7 +73,7 @@ agent = initialize_agent(
 # -------------------- Main Execution -------------------- #
 if __name__ == "__main__":
     print("Welcome to the Legal Helper Agent!")
-    file_path = r"FMRnxSTagAEkdiX.jpg"
+    file_path = r"Mr_Vijay_Agarwal_Ors_vs_Harinarayan_G_Bajaj_Ors_on_27_February_2013.PDF"
 
     # Step 1: Convert to text
     text = convert_to_text(file_path)

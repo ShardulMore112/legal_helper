@@ -11,4 +11,7 @@ uvicorn
 pytesseract
 PyMuPDF
 Pillow
-faiss
+faiss-cpu
+langchain-google-genai
+langchain-chroma
+pypdf
