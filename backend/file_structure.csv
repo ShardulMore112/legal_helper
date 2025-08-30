@@ -1,0 +1,13 @@
+File Name,Type,Purpose,Key Features
+main.py,Backend,Main FastAPI application,"WebSocket support, file upload, session management, API endpoints"
+enhanced_tools.py,Backend,Enhanced AI tools for document processing,"Very detailed explanations, document classification, text extraction"
+rag_updated.py,Backend,RAG system for chatbot functionality,"Vector database, document chunking, Q&A chain"
+requirements_updated.txt,Configuration,Python dependencies,All necessary packages for the application
+.env.template,Configuration,Environment variables template,"API keys, app settings, server configuration"
+README.md,Documentation,Complete setup and usage guide,"Installation steps, API keys setup, troubleshooting"
+start.py,Utility,Smart startup script,"Dependency checks, environment validation, automatic startup"
+start.bat,Utility,Windows startup script,Easy startup for Windows users
+start.sh,Utility,Unix/Linux startup script,Easy startup for Unix/Linux users
+templates/index.html,Frontend,Main web interface,"Drag & drop upload, responsive design, chat interface"
+static/style.css,Frontend,CSS styling,"Modern design, animations, responsive layout"
+static/script.js,Frontend,JavaScript functionality,"File handling, WebSocket chat, API calls, UI interactions"
