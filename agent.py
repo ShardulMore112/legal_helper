@@ -57,7 +57,7 @@ Rules:
 - If the user asks to convert data to text, use ConvertToText.
 - If the user asks for a summary, use SummarizeText.
 - If the user asks for a detailed explanation, use ExplainDocument.
-- Always answer in a formal, concise, and readable tone.
+- Always answer in a formal, detailed, and readable tone use legal jargans but explain them properly.
 """
 
 # -------------------- Initialize Agent -------------------- #

@@ -11,3 +11,4 @@ uvicorn
 pytesseract
 PyMuPDF
 Pillow
+faiss
