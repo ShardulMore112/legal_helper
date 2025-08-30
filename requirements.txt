@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langchain-openai
+openai
+openrouter
+requests
+python-dotenv
+fpdf
+fastapi
+uvicorn
+pytesseract
+PyMuPDF
+Pillow
